@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c45fef27ac5b3fc6",
+        "id": "ef8fef83a6dc0d75",
         "type": "tabs",
         "children": [
           {
-            "id": "fc44a3e6d73a2fb9",
+            "id": "bc3ef742b6cca6ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "search.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "search.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -139,14 +131,14 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fc44a3e6d73a2fb9",
+  "active": "bc3ef742b6cca6ab",
   "lastOpenFiles": [
+    "search.md",
     "preview changes.md",
     "obsidian.md",
     "ignore notes.md",
     "_index.md",
     "setup.md",
-    "search.md",
     "showcase.md",
     "updating.md"
   ]
