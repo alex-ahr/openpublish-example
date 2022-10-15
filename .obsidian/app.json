@@ -1,0 +1,8 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "media",
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true,
+  "trashOption": "local"
+}
