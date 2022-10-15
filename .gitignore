@@ -1,0 +1,8 @@
+# This way, the current opened files are not synced.
+# This creates fewer conflicts and allows you to always
+# know where you last left off.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Store trash locally
+.trash
