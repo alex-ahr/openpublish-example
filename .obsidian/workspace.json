@@ -11,11 +11,40 @@
             "id": "bc3ef742b6cca6ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_index.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b15734755d5c1532",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenPublish vs Obsidian Publish.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fecdf5ac28b02bf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenPublish - Architecture.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OpenPublish - Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OpenPublish - Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "OpenPublish - Architecture.md"
+              }
             }
           }
         ]
@@ -131,13 +164,15 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "bc3ef742b6cca6ab",
+  "active": "fecdf5ac28b02bf9",
   "lastOpenFiles": [
+    "OpenPublish vs Obsidian Publish.md",
+    "_index.md",
+    "CJK + Latex Support (测试).md",
     "search.md",
     "preview changes.md",
     "obsidian.md",
     "ignore notes.md",
-    "_index.md",
     "setup.md",
     "showcase.md",
     "updating.md"
